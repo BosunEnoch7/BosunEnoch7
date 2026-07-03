@@ -132,61 +132,9 @@ I'm passionate about solving infrastructure problems, improving operational reli
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BosunEnoch7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BosunEnoch7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BosunEnoch7&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BosunEnoch7&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BosunEnoch7&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BosunEnoch7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+- 💼 LinkedIn: **https://www.linkedin.com/in/olatubosun-enoch-david-068336380/**
 - 📧 Email: **olatubosunenoch7@gmail.com**
 - 💻 GitHub: **https://github.com/BosunEnoch7**
 
