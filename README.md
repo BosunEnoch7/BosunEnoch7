@@ -13,6 +13,7 @@
 Building production-ready cloud infrastructure, CI/CD pipelines, AI platforms, observability solutions, and secure cloud networking across AWS and Microsoft Azure.
 </p>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/olatubosun-enoch-david-068336380/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
