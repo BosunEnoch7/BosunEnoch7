@@ -31,13 +31,13 @@ Building production-ready cloud infrastructure, CI/CD pipelines, AI platforms, o
 
 # 💡 About Me
 
-I enjoy designing and building production-inspired cloud platforms that emphasize automation, security, observability, and reliability.
+I design and build production-ready cloud platforms with a strong focus on automation, security, reliability, and observability.
 
-My projects combine modern DevOps, Cloud Engineering, Platform Engineering, Site Reliability Engineering (SRE), and AI Infrastructure practices using AWS and Microsoft Azure.
+My experience spans **DevOps Engineering, Cloud Engineering, Site Reliability Engineering (SRE), Platform Engineering, AI Infrastructure, and Infrastructure as Code** across **AWS** and **Microsoft Azure**. I enjoy solving complex infrastructure challenges, automating delivery pipelines, and building resilient systems that are secure, scalable, and operationally efficient.
 
-My GitHub showcases hands-on implementations of Infrastructure as Code, CI/CD pipelines, AI inference platforms, cloud monitoring systems, observability stacks, containerized applications, and production deployment workflows.
+My GitHub showcases hands-on projects covering cloud infrastructure, CI/CD automation, AI inference platforms, observability stacks, cloud networking, containerized applications, and production-inspired deployment workflows—demonstrating not only how to build systems, but also how to operate, monitor, troubleshoot, and improve them.
 
-I'm passionate about solving infrastructure problems, improving operational reliability, and continuously learning how modern engineering teams build and operate cloud-native platforms.
+I believe great engineering is built on continuous improvement. Every project is an opportunity to deepen my expertise, refine best practices, and deliver reliable solutions that create real business value.
 
 ---
 
@@ -116,19 +116,6 @@ I'm passionate about solving infrastructure problems, improving operational reli
 - 🐳 Dockerized Web Server
 - ⚙️ Azure CI/CD Pipeline
 - 🌐 AWS Reverse Proxy Infrastructure
-
----
-
-# 📚 Currently Learning
-
-- Amazon EKS
-- Helm
-- Kubernetes
-- Advanced AWS Networking
-- Platform Engineering
-- Distributed Systems
-- AI DevOps
-- MLOps
 
 ---
 
