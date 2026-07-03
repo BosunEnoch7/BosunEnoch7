@@ -14,7 +14,7 @@ Building production-ready cloud infrastructure, CI/CD pipelines, AI platforms, o
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/olatubosun-enoch-david-068336380/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
