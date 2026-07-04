@@ -61,7 +61,8 @@ I believe great engineering is built on continuous improvement. Every project is
 ### ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ### ☸️ Container Platforms
